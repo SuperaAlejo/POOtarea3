@@ -1,0 +1,1 @@
+from .docentes import Profesor, ProfesorTitular
