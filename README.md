@@ -18,16 +18,18 @@ Alejandro Valencia Ossa
 ##  📷 Diagramas de clase
 
 ## Ejercicio 1
-![Persona](cuentas.png)
+![Persona](ejercicio1/cuentas.png)
 ---
 ## Ejercicio 2
-![Texto alternativo](inmuebles.png)
+![Texto alternativo](ejercicio2/inmuebles.png)
 ---
-## Ejercicio 3
-![Texto alternativo](mascotas.png)
+## Ejercicio 3 
+(se omiten los constructores de las especies debido al gran tamaño de la imagen)
+
+![Texto alternativo](ejercicio3/mascotas.png)
 ---
 ## Ejercicio 4
-![Texto alternativo](personas.png)
+![Texto alternativo](ejercicio4/personas.png)
 ---
 ## Ejercicio 5
-![Texto alternativo](profesor.png)
+![Texto alternativo](ejercicio5/profesor.png)
