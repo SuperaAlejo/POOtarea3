@@ -6,7 +6,7 @@ El archivo adjunto contiene los 5 ejercicios que se debían realizar.
 
 ## 🧠 Contenido
 
-En cada uno de las carpetas se encuentran cada uno de los 5 ejercicios con su respectivo diagrama de clases. Los ejercicios que requerían la definición de paquetes se hicieron utilizando el estilo de programación de paquetes en Python: Un archivo principal  [`main.py`](./) y varias subcarpetas que contienen las diferentes clases.
+En cada uno de las carpetas se encuentran cada uno de los 5 ejercicios con su respectivo diagrama de clases. Los ejercicios que requerían la definición de paquetes se hicieron utilizando el estilo de programación de paquetes en Python: Un archivo principal  [`main.py`](./) y varias subcarpetas que contienen las diferentes clases. Adicionalmente, la ejecución del código con los resultados se encuentran en el documento [`tarea3.pdf`](./)
 
 ---
 
